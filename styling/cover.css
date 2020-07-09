@@ -18,3 +18,7 @@ a{
 .container p {
   margin-top: 20px
 }
+
+.side-margin {
+  margin-left: 50px;
+}
